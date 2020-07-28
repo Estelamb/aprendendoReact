@@ -26,3 +26,4 @@ Depois de tudo preparado, pasta colocar os arquivos baixados do GitHub e ver com
 
 Como uma pré - visualização temos:
 
+![](https://github.com/Estelamb/aprendendoReact/blob/master/src/images/site.png)
